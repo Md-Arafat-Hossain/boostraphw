@@ -1,0 +1,45 @@
+
+.h-15{
+        height: 25px;
+}
+.h-5{
+        height: 5px;
+}
+
+.d-flex i {
+        margin-left: 5px;
+        cursor: pointer;
+}
+
+.fa-search{
+        color: rgb(5, 127, 248);
+}
+.actived {
+        background-color: #191b19;
+        color: white;
+}
+
+.nav-item:hover{
+        background-color: #191b19 ;
+}
+
+.far , .fas {
+        margin-right: 5px;
+        cursor: pointer;
+}
+
+.carousel-item img{
+        height: 450px;
+}
+
+p{
+        font-size: 12px;
+}
+.blog1{
+        width: 100%;
+        height: 250px;
+}
+.blog{
+        height: 120px;
+        padding-top: 5px;
+}
